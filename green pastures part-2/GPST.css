@@ -7,8 +7,9 @@ header {
   color: white
 }
 nav {
-  background-color:turquoise blue
+  background-color:turquoise blue;
 }
 h1 {
-  background-color:tyrian purple
+  background-color:tyrian purple;
+  margin-bottom: 0;
 }
