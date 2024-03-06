@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<style>
+	body{background-color: black;}
+		h1 {color: white;}
+		h2 {color: red;}
+	        hr {color: black;}
+		p {color:white;}
+
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Qu'Niyah's IT2040 Portfolio 2nd semester</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body> 
+	 <header>
+		  <hl>hello world! welcome to Qu'Niyah's IT2040 Portfolio</hl>
+		 <h2>university of cincinnati-spring 24</h2>
+	 </header>
+	  <nav>
+		  <a href="https://www.w3schools.com">w3 schools</a>
+	  </nav>
+	  <main>
+		  <img src="images/WIN_20240125_11_05_12_Pro.jpg" alt="picture of Qu'Niyah">
+		  <h3>Green pastures case study labs</h3>
+		  <ul>
+ 			 <li><a href="Green_Pastures/index.html"> module 3</a></li>
+  			<li><a href="green pastures part-2/index.html"> module 4</a></li>
+  			<li><a href="https://www.w3schools.com"> module 5 </a></li>
+			</ul>
+		  <hr>
+		  <h3>final project deliverables</h3>
+		  <ul>
+ 			 <li> final project milestone 3</li>
+  			<li> final project milestone 4 </li>
+ 			 <li> final project milestone 5</li>
+			  <li>final project website</li>
+		</ul>
+
+
+
+
+
+	  </main>
+	  <footer>
+		 <small> <p> i certify that all work published to my github.com sub domain is my own work.</p></small>
+		  <style type="text/css">
+		     
+		  </style>
+			  </footer>
+	 
+	
+  </body>
